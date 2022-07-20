@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/01/16 12:10:16.914.pas,C:\Documents and Settings\a.nourbakhsh\My Documents\RAD Studio\Projects\Unit1.pas=D:\RFID Project\Card Reader\Unit1.pas</Transaction>
+    <Transaction>2013/01/16 12:10:16.914.dfm,C:\Documents and Settings\a.nourbakhsh\My Documents\RAD Studio\Projects\Unit1.dfm=D:\RFID Project\Card Reader\Unit1.dfm</Transaction>
+    <Transaction>2013/01/16 12:10:24.070.dproj,C:\Documents and Settings\a.nourbakhsh\My Documents\RAD Studio\Projects\Project1.dproj=D:\RFID Project\Card Reader\Reader.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
